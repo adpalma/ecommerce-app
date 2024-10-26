@@ -1,3 +1,3 @@
 export const Coupons = () => {
-    return <>Coming Soon</>
-}
+  return <>Coming Soon</>;
+};

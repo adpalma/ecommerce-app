@@ -1,0 +1,14 @@
+.banner {
+  height: 46px;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  color: #ffffff
+}
+
+.profile-img {
+  width: 46px;
+  height: 46px;
+  border-radius: 23px;
+  margin-right: 8px;
+}

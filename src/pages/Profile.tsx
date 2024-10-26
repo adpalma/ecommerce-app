@@ -1,3 +1,3 @@
 export const Profile = () => {
-    return <>Coming Soon</>
-}
+  return <>Coming Soon</>;
+};
