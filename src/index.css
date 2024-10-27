@@ -1,6 +1,7 @@
 :root {
   font-family: Roboto, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
+  font-size: 16px;
   font-weight: 400;
 
   color-scheme: light dark;
@@ -66,8 +67,7 @@ button:focus-visible {
   }
 }
 
-
-h6 {
+.h6 {
   font-size: 1.25rem;
   font-weight: 700;
 }
@@ -140,9 +140,21 @@ h6 {
   color: #7130D5;
 }
 
+.text-grey {
+  color: #cacaca;
+}
+
 .card {
   width: 183px;
   border-radius: 12px;
   /* box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25); */
   box-shadow: 0px 0.5px 1.5px 0px rgba(0,0,0,0.12);
+}
+
+.full-height {
+  height: 100%;
+}
+
+.full-width {
+  width: 100%;
 }

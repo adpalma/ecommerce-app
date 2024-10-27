@@ -26,4 +26,5 @@ nav > ul > li {
 
 .page {
   padding-bottom: 75px;
+  height: calc(100% - 75px)
 }

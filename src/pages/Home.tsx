@@ -20,7 +20,7 @@ export const Home = () => {
 
   return (
     <div className="homepage">
-      <Banner />
+      <Banner name="Nicole" />
       <div className="product-list flex column">
         <ProductSection title="For You" items={forYou} />
         <ProductSection title="Hot Products" items={hot} />

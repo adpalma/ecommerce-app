@@ -1,3 +1,7 @@
 export const Profile = () => {
-  return <>Coming Soon</>;
+  return (
+    <div className="flex full-height justify-center align-center h6 primary">
+      Coming Soon
+    </div>
+  );
 };

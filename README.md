@@ -35,5 +35,5 @@ Start the app in development mode:
 yarn dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.  
 Vite's hot-reload feature ensures that changes reflect instantly
